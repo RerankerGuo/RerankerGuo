@@ -20,6 +20,10 @@
 - **Southeast University** — M.Eng. in Software Engineering, 2025 – present
 - **Hohai University** — B.Eng. in Computer Science & Technology, 2021 – 2025
 
+#### 💼 Internship Experience
+
+- **Baidu Health** — `ACG · LLM Applications` — `2025.2 to 9`
+
 #### 🏆 Awards
 
 - **National Scholarship** (Ministry of Education, 2023)
@@ -27,7 +31,7 @@
 - **3rd Prize**, China Undergraduate Service Outsourcing Competition (2024)
 - Excellent Student Scholarship, Hohai University (2021 – 2025)
 
-#### 📝 Writing
+#### 📝 Blog
 
 - [Iterating on Agents: Benchmark → Strategy → Ship](https://mp.weixin.qq.com/s/0YFG-J2ZWwRO4lTP7f1JDA)
 - [Becoming a True AI Native Coder](https://mp.weixin.qq.com/s/xLgonEJ9cCH0LaLpw76_3g)
