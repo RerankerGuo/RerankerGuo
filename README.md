@@ -17,8 +17,8 @@
 
 #### 🎓 Education
 
-- **Southeast University** — M.Eng. in Software Engineering, 2025 – present
-- **Hohai University** — B.Eng. in Computer Science & Technology, 2021 – 2025
+- **Southeast University** — M.S. in CS, 2025 – present
+- **Hohai University** — B.S. in CS, 2021 – 2025
 
 #### 💼 Internship Experience
 
