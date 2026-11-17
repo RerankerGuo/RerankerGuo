@@ -40,6 +40,10 @@
 
 #### 💻 Open Source
 
+- 🐳 **Member of [Datawhale](https://github.com/datawhalechina)**
+- 🏆 **Tencent Rhino Bird** Open Source Training Program — [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+- 🌟 **Alibaba** Open Source Contributor — [AgentScope](https://github.com/agentscope-ai)
+
 **243 merged PRs** across 23 upstream repositories — agent frameworks, memory systems, deep-research and AIGC tooling.
 
 - **[local-deep-research](https://github.com/LearningCircuit/local-deep-research)** · 57 PRs — local-first Deep Research toolkit
