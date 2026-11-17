@@ -22,7 +22,7 @@
 
 #### 💼 Internship Experience
 
-- **Baidu** — `Baidu Health · LLM Applications` — `2025.2 to 9`
+- **Baidu** — `LLM Applications` — `2025.2 to 9`
 
 #### 🏆 Awards
 
