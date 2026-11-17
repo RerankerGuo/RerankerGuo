@@ -3,11 +3,11 @@
   <p><strong>I'm currently focused on Agent and open to job opportunities.</strong></p>
   <p>☕ Feel free to reach out for a coffee chat or meeting～</p>
   <p>
-    <a href="https://rerankerguo.github.io"><img src="https://cdn.simpleicons.org/github/8957e5" height="18" align="texttop" alt="" /> Homepage</a>
+    <a href="https://rerankerguo.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/e6edf3"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/1f2328"><img src="https://cdn.simpleicons.org/github/6e7781" height="18" align="texttop" alt="" /></picture> Homepage</a>
     &nbsp;
     <a href="https://www.zhihu.com/people/6f7db4ab5c1946bd62d781912c939fc6"><img src="https://cdn.simpleicons.org/zhihu/0066FF" height="18" align="texttop" alt="" /> Zhihu</a>
     &nbsp;
-    <a href="https://xhslink.com/m/8xTk1oSLmdz"><img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" height="26" align="texttop" alt="" /> XHS</a>
+    <a href="https://xhslink.com/m/8xTk1oSLmdz"><img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" height="26" align="absmiddle" alt="" /> XHS</a>
     &nbsp;
     <a name="wechat"><img src="https://cdn.simpleicons.org/wechat/07C160" height="18" align="texttop" alt="" /></a> WeChat 13407293575
     &nbsp;
