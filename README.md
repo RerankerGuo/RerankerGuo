@@ -49,6 +49,10 @@
 - 🏆 **Tencent Rhino Bird** Open Source Training Program — [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 - 🌟 **Alibaba** Open Source Contributor — [AgentScope](https://github.com/agentscope-ai)
 
+#### 🏗️ Projects
+
+- **[SEU OJ](https://www.seuoj.best/)** — Top Contributor & core developer. Southeast University Online Judge: a competitive-programming platform with a three-stage Camel-AI agent (Planner / Executor / Verifier) over FAISS + BM25 hybrid retrieval, serving RAG Q&A, knowledge graphs and code tutoring. Also maintain the frontend algorithm knowledge graph (chapters 2–11).
+
 </td>
 </tr>
 </table>
