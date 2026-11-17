@@ -27,8 +27,6 @@
 #### 🏆 Awards
 
 - **National Scholarship** (Ministry of Education, 2023)
-- **2nd Prize**, China Undergraduate Computer Design Competition (2024)
-- **3rd Prize**, China Undergraduate Service Outsourcing Competition (2024)
 - Excellent Student Scholarship, Hohai University (2021 – 2025)
 
 #### 📝 Blog
