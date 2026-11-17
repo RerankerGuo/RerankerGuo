@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./assets/avatar.jpg" width="88" alt="Ziyang Guo" />
   <h1>Hi, I'm Ziyang Guo 👋</h1>
   <p><strong>I'm currently focused on Agent and open to job opportunities.</strong></p>
   <p>
