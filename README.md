@@ -28,11 +28,6 @@
 
 - **Baidu** — `LLM Applications` — `2025.2 to 9`
 
-#### 🏆 Awards
-
-- **National Scholarship** (Ministry of Education, 2023)
-- Excellent Student Scholarship, Hohai University (2021 – 2025)
-
 #### 📝 Blog
 
 - [Iterating on Agents: Benchmark → Strategy → Ship](https://mp.weixin.qq.com/s/0YFG-J2ZWwRO4lTP7f1JDA)
@@ -42,6 +37,10 @@
 
 </td>
 <td valign="top" width="48%">
+
+#### 🏆 Awards
+
+- **National Scholarship** (Ministry of Education, 2023)
 
 #### 💻 Open Source
 
