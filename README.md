@@ -44,8 +44,7 @@
 
 #### 💻 Open Source
 
-- 🔍 **Top Contributor of** [local-deep-research](https://github.com/LearningCircuit/local-deep-research) — 57 merged PRs
-- 🎬 **Top Contributor of** [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) — 12 merged PRs
+- 🦌 **Maintainer of** [local-deep-research](https://github.com/LearningCircuit/local-deep-research) · [LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama)
 - 🐳 **Member of [Datawhale](https://github.com/datawhalechina)**
 - 🏆 **Tencent Rhino Bird** Open Source Training Program — [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 - 🌟 **Alibaba** Open Source Contributor — [AgentScope](https://github.com/agentscope-ai)
