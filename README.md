@@ -3,15 +3,15 @@
   <p><strong>I'm currently focused on Agent and open to job opportunities.</strong></p>
   <p>☕ Feel free to reach out for a coffee chat or meeting～</p>
   <p>
-    <a href="https://rerankerguo.github.io"><img src="https://img.shields.io/badge/Homepage-8957e5?logo=github&style=flat-square" alt="Homepage" /></a>
+    <a href="https://rerankerguo.github.io"><img src="https://cdn.simpleicons.org/github/8957e5" height="18" alt="" /> Homepage</a>
     &nbsp;
-    <a href="https://www.zhihu.com/people/6f7db4ab5c1946bd62d781912c939fc6"><img src="https://img.shields.io/badge/Zhihu-0066FF?logo=zhihu&style=flat-square" alt="Zhihu" /></a>
+    <a href="https://www.zhihu.com/people/6f7db4ab5c1946bd62d781912c939fc6"><img src="https://cdn.simpleicons.org/zhihu/0066FF" height="18" alt="" /> Zhihu</a>
     &nbsp;
-    <a href="https://xhslink.com/m/8xTk1oSLmdz"><img src="https://img.shields.io/badge/XHS-FF2442?logo=xiaohongshu&style=flat-square" alt="XHS" /></a>
+    <a href="https://xhslink.com/m/8xTk1oSLmdz"><img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" height="18" alt="" /> XHS</a>
     &nbsp;
-    <a name="wechat"><img src="https://img.shields.io/badge/WeChat-13407293575-07C160?logo=wechat&style=flat-square" alt="WeChat" /></a>
+    <a name="wechat"><img src="https://cdn.simpleicons.org/wechat/07C160" height="18" alt="" /></a> WeChat 13407293575
     &nbsp;
-    <a name="email"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-13407293575%40163.com-8957e5?labelColor=8957e5&style=flat-square" alt="Email" /></a>
+    ✉️ Email 13407293575<span>@</span>163.com
   </p>
 </div>
 
