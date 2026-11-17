@@ -11,7 +11,7 @@
     &nbsp;
     <a name="wechat"><img src="https://img.shields.io/badge/WeChat-13407293575-07C160?logo=wechat&style=flat-square" alt="WeChat" /></a>
     &nbsp;
-    <a name="email"><img src="https://img.shields.io/badge/Email-13407293575%40163.com-8957e5?logo=mailbox&style=flat-square" alt="Email" /></a>
+    <a name="email"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-13407293575%40163.com-8957e5?labelColor=8957e5&style=flat-square" alt="Email" /></a>
   </p>
 </div>
 
