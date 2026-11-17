@@ -9,9 +9,9 @@
     &nbsp;
     <a href="https://xhslink.com/m/8xTk1oSLmdz"><img src="https://img.shields.io/badge/XHS-FF2442?logo=xiaohongshu&style=flat-square" alt="XHS" /></a>
     &nbsp;
-    <img src="https://img.shields.io/badge/WeChat-13407293575-07C160?logo=wechat&style=flat-square" alt="WeChat" />
+    <code>WeChat 13407293575</code>
     &nbsp;
-    <img src="https://img.shields.io/badge/Email-13407293575%40163.com-8957e5?logo=mailbox&style=flat-square" alt="Email" />
+    <code>Email 13407293575<span>@</span>163.com</code>
   </p>
 </div>
 
