@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Ziyang Guo 👋</h1>
   <p><strong>I'm currently focused on Agent and open to job opportunities.</strong></p>
-  <p>☕ Welcome to reach out for a coffee chat or a meeting.</p>
+  <p>☕ Feel free to reach out for a coffee chat or meeting～</p>
   <p>
     <a href="https://rerankerguo.github.io"><img src="https://img.shields.io/badge/Homepage-8957e5?logo=github&style=flat-square" alt="Homepage" /></a>
     &nbsp;
