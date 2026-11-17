@@ -1,12 +1,17 @@
 <div align="center">
   <h1>Hi, I'm Ziyang Guo 👋</h1>
   <p><strong>I'm currently focused on Agent and open to job opportunities.</strong></p>
+  <p>☕ Welcome to reach out for a coffee chat or a meeting.</p>
   <p>
-    <a href="https://rerankerguo.github.io"><img src="https://img.shields.io/badge/Homepage-8957e5?style=flat-square" alt="Homepage" /></a>
+    <a href="https://rerankerguo.github.io"><img src="https://img.shields.io/badge/Homepage-8957e5?logo=github&style=flat-square" alt="Homepage" /></a>
     &nbsp;
-    <a href="https://www.zhihu.com/people/6f7db4ab5c1946bd62d781912c939fc6"><img src="https://img.shields.io/badge/Zhihu-8957e5?style=flat-square" alt="Zhihu" /></a>
+    <a href="https://www.zhihu.com/people/6f7db4ab5c1946bd62d781912c939fc6"><img src="https://img.shields.io/badge/Zhihu-0066FF?logo=zhihu&style=flat-square" alt="Zhihu" /></a>
     &nbsp;
-    <a href="https://xhslink.com/m/8xTk1oSLmdz"><img src="https://img.shields.io/badge/XHS-8957e5?style=flat-square" alt="XHS" /></a>
+    <a href="https://xhslink.com/m/8xTk1oSLmdz"><img src="https://img.shields.io/badge/XHS-FF2442?logo=xiaohongshu&style=flat-square" alt="XHS" /></a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/WeChat-13407293575-07C160?logo=wechat&style=flat-square" alt="WeChat" />
+    &nbsp;
+    <a href="mailto:13407293575@163.com"><img src="https://img.shields.io/badge/Email-8957e5?logo=mailbox&style=flat-square" alt="Email" /></a>
   </p>
 </div>
 
@@ -43,18 +48,6 @@
 - 🐳 **Member of [Datawhale](https://github.com/datawhalechina)**
 - 🏆 **Tencent Rhino Bird** Open Source Training Program — [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 - 🌟 **Alibaba** Open Source Contributor — [AgentScope](https://github.com/agentscope-ai)
-
-**243 merged PRs** across 23 upstream repositories — agent frameworks, memory systems, deep-research and AIGC tooling.
-
-- **[local-deep-research](https://github.com/LearningCircuit/local-deep-research)** · 57 PRs — local-first Deep Research toolkit
-- **[AgentTeams](https://github.com/agentscope-ai/AgentTeams)** · 26 PRs — multi-agent collaboration platform
-- **[MemOS](https://github.com/MemTensor/MemOS)** · 20 PRs — Memory Operating System
-- **[ReMe](https://github.com/agentscope-ai/ReMe)** · 14 PRs — memory-as-file toolkit for agents
-- **[LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama)** · 12 PRs — local AI short-drama generator
-- **[gbrain](https://github.com/garrytan/gbrain)** · 12 PRs — agent brain layer
-- **[agentscope](https://github.com/agentscope-ai/agentscope)** · 10 PRs — production-grade agent framework
-- **[QwenPaw](https://github.com/agentscope-ai/QwenPaw)** · 10 PRs — personal AI assistant & agent OS
-- **[ms-swift](https://github.com/modelscope/ms-swift)** · 8 PRs — end-to-end LLM training framework
 
 </td>
 </tr>
