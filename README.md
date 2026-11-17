@@ -5,9 +5,13 @@
   <p>Building AI-native software workflows — from coding agents to self-evolving memory systems.</p>
   <p>
     <a href="https://rerankerguo.github.io"><img src="https://img.shields.io/badge/Homepage-8957e5?style=flat-square" alt="Homepage" /></a>
+    &nbsp;
     <a href="https://www.zhihu.com/people/6f7db4ab5c1946bd62d781912c939fc6"><img src="https://img.shields.io/badge/Zhihu-8957e5?style=flat-square" alt="Zhihu" /></a>
+    &nbsp;
     <a href="https://www.seuoj.best/"><img src="https://img.shields.io/badge/SEU%20OJ-8957e5?style=flat-square" alt="SEU OJ" /></a>
+    &nbsp;
     <a href="mailto:13407293575@163.com"><img src="https://img.shields.io/badge/Email-8957e5?style=flat-square" alt="Email" /></a>
+    &nbsp;
     <img src="https://img.shields.io/badge/merged%20PRs-243-brightgreen?style=flat-square" alt="Merged PRs" />
   </p>
 </div>
