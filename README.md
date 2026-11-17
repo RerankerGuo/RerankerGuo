@@ -11,7 +11,7 @@
     &nbsp;
     <img src="https://img.shields.io/badge/WeChat-13407293575-07C160?logo=wechat&style=flat-square" alt="WeChat" />
     &nbsp;
-    <a href="mailto:13407293575@163.com"><img src="https://img.shields.io/badge/Email-8957e5?logo=mailbox&style=flat-square" alt="Email" /></a>
+    <img src="https://img.shields.io/badge/Email-13407293575%40163.com-8957e5?logo=mailbox&style=flat-square" alt="Email" />
   </p>
 </div>
 
