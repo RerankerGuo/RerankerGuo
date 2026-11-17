@@ -53,12 +53,6 @@
 - **[QwenPaw](https://github.com/agentscope-ai/QwenPaw)** · 10 PRs — personal AI assistant & agent OS
 - **[ms-swift](https://github.com/modelscope/ms-swift)** · 8 PRs — end-to-end LLM training framework
 
-#### 🏗️ Built
-
-- **[SEU OJ](https://www.seuoj.best/)** — Top Contributor. Southeast University Online Judge: a competitive-programming platform with a RAG + agent pipeline for Q&A, knowledge graphs and code tutoring.
-
-👉 [Full project list on my homepage](https://rerankerguo.github.io)
-
 </td>
 </tr>
 </table>
